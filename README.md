@@ -10,7 +10,7 @@ This folder contains all terraform code
 <br />This folder contains terraform code with monolith structure splitted by env.
 
 - `layers`
-<br />This folder contains terraform code with different layers, which spliited by logical layers.
+<br />This folder contains terraform code with different layers, which spliited by logical layers. Based on tf workspaces
 
 ### `Scripts`
 This folder contains bash scripts.
